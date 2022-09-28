@@ -1,0 +1,11 @@
+.navBody {
+    color: aqua;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    padding-left: 50px;
+    padding-top: 50px;
+}

@@ -1,11 +1,17 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPersonRunning, } from '@fortawesome/free-solid-svg-icons'
 import React from 'react';
 import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <div>
-            <h1 className='nav'>Good Time Gaming Active Club</h1>
-            <h3>Select Today's Gaming Activity</h3>
+        <div className='nav'>
+            <div className='navBody'>
+                <h1 ><FontAwesomeIcon icon={faPersonRunning}></FontAwesomeIcon></h1>
+                <h1 >Good Time Gaming Active Club</h1>
+            </div>
+
+
 
         </div>
     );

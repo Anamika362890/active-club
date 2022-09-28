@@ -1,4 +1,5 @@
 import React from 'react';
+import Game from '../Game/Game';
 import Navbar from '../Navbar/Navbar';
 
 const Activities = () => {
@@ -6,6 +7,7 @@ const Activities = () => {
         <div>
 
             <Navbar></Navbar>
+            <Game></Game>
 
         </div>
     );
