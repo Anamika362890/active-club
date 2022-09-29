@@ -1,6 +1,8 @@
 import React from 'react';
 import './MyProfile.css'
 import picture from '../MyProfile/picture.jpg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLocation } from '@fortawesome/free-solid-svg-icons'
 
 const MyProfile = () => {
     return (
@@ -18,8 +20,8 @@ const MyProfile = () => {
                     </div>
 
                     <div className='location'>
-                        {/* <FontAwesomeIcon icon={faLocation}></FontAwesomeIcon>
-                        <small className='place'>Dhaka,Bangladesh</small> */}
+                        <FontAwesomeIcon icon={faLocation}></FontAwesomeIcon>
+                        <small className='place'>Dhaka,Bangladesh</small>
                     </div>
                 </div>
 

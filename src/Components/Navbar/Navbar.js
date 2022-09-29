@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPersonRunning } from '@fortawesome/free-solid-svg-icons'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -6,7 +8,7 @@ const Navbar = () => {
         <div>
             <div className='nav'>
                 <div className='navBody'>
-                    {/* <h1 ><FontAwesomeIcon icon={faPersonRunning}></FontAwesomeIcon></h1> */}
+                    <h1 ><FontAwesomeIcon icon={faPersonRunning}></FontAwesomeIcon></h1>
                     <h1 >Good Time Gaming Active Club</h1>
                 </div>
 
