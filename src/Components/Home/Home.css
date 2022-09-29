@@ -34,3 +34,46 @@
     gap: 30px;
 
 }
+
+@media screen and (max-width: 576px) {
+    .home {
+        display: inline;
+        margin: 30px;
+
+
+
+
+    }
+
+    .game-activities {
+
+
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+        gap: 30px;
+
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 992px) {
+    .home {
+        display: grid;
+        margin: 30px;
+
+
+
+
+    }
+
+    .game-activities {
+
+
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        gap: 30px;
+
+    }
+
+}
