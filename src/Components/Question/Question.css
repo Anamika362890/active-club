@@ -1,6 +1,10 @@
 .question {
-    border: 2px solid green;
+    border: 2px solid lightseagreen;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
+}
+
+.question h3 {
+    color: lightseagreen;
 }

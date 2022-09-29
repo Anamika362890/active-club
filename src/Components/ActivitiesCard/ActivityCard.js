@@ -1,4 +1,5 @@
 import React from 'react';
+import './ActivityCard.css'
 
 
 const ActivityCard = (props) => {
@@ -6,8 +7,8 @@ const ActivityCard = (props) => {
 
 
     return (
-        <div>
-            <button >{Btime} s</button>
+        <div >
+            <button className='btn-t'>{Btime} s</button>
         </div>
     );
 };

@@ -12,14 +12,14 @@ const Time = (props) => {
 
 
     return (
-        <div>
-            <h1>Personal info{time.length}</h1>
-            <h2>Exercise Details</h2>
+        <div className='exercise'>
+
+            <h2 className='h2'>Exercise Details</h2>
             <div className='Exercise-time'>
                 <div>
                     <p>Exercise Time:         </p>
                 </div>
-                <div>
+                <div className='p-time'>
                     <p>{total} minute</p>
                 </div>
             </div>
@@ -27,7 +27,7 @@ const Time = (props) => {
                 <div>
                     <p >Break Time:</p>
                 </div>
-                <div>
+                <div className='p-time'>
 
                 </div>
             </div>

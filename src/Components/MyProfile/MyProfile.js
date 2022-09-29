@@ -16,7 +16,7 @@ const MyProfile = () => {
 
                     <div className='name'>
 
-                        <span>Anamika Goswami</span>
+                        <span >Anamika Goswami</span>
                     </div>
 
                     <div className='location'>

@@ -15,11 +15,13 @@
 .name {
     font-size: 25px;
     font-weight: 700;
+    color: lightseagreen;
 }
 
 .location {
     font-size: 20px;
     font-weight: 400;
+    color: gray;
 }
 
 .place {

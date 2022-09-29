@@ -1,0 +1,11 @@
+.btn-t {
+    color: white;
+    background-color: lightseagreen;
+
+}
+
+.btn-t:hover {
+    color: lightseagreen;
+    background-color: gray;
+
+}
