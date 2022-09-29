@@ -1,0 +1,26 @@
+.h2 {
+    margin-left: 40px;
+}
+
+.exercise p {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.Bp-time {
+    margin-left: 40px;
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+}
+
+.BExercise-time {
+    border: 2px solid lightseagreen;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+}

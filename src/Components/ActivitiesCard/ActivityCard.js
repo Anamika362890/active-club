@@ -8,7 +8,7 @@ const ActivityCard = (props) => {
 
     return (
         <div >
-            <button className='btn-t'>{Btime} s</button>
+            <button onClick={() => props.handleBreak(props.breakTime)} className='btn-t'>{Btime} s</button>
         </div>
     );
 };

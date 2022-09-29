@@ -14,7 +14,7 @@ const Time = (props) => {
     return (
         <div className='exercise'>
 
-            <h2 className='h2'>Exercise Details</h2>
+
             <div className='Exercise-time'>
                 <div>
                     <p>Exercise Time:         </p>
@@ -23,14 +23,7 @@ const Time = (props) => {
                     <p>{total} minute</p>
                 </div>
             </div>
-            <div className='Exercise-time'>
-                <div>
-                    <p >Break Time:</p>
-                </div>
-                <div className='p-time'>
 
-                </div>
-            </div>
         </div>
     );
 };
