@@ -3,11 +3,13 @@ import './Time.css'
 
 const Time = (props) => {
     const { time } = props;
-    console.log(time);
+
+
     let total = 0;
     for (const game of time) {
         total = total + game.time;
     }
+
 
     return (
         <div>

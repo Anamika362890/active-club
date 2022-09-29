@@ -1,8 +1,13 @@
 .navBody {
-    color: aqua;
+    color: lightseagreen;
     margin-right: 15px;
     display: flex;
     align-items: center;
+}
+
+.icon {
+    color: salmon;
+    margin-right: 10px;
 }
 
 .nav {

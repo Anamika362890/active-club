@@ -1,5 +1,5 @@
 .game {
-    border: 2px solid green;
+    border: 2px solid lightseagreen;
     height: 560px;
 
     padding: 8px;
@@ -11,7 +11,7 @@
 .game img {
     width: 280px;
     height: 280px;
-    margin: 10px 0px 0px 10px;
+    margin: 9px 0px 0px 6px;
     border-radius: 10px;
 
 }
@@ -26,9 +26,24 @@
 }
 
 .btn {
+    color: white;
     width: 100%;
     padding: 10px;
     font-size: 15px;
     font-weight: 700;
+    border: 2px solid white;
     border-radius: 10px;
+    background-color: lightseagreen;
+}
+
+.btn:hover {
+    color: lightseagreen;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    background-color: white;
+
 }

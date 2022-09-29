@@ -10,6 +10,12 @@
 
 }
 
+.select {
+    margin-left: 60px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
 .info {
 
     box-shadow: 22px 0px 79px 0px gainsboro;
