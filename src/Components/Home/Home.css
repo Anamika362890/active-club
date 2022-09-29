@@ -38,7 +38,7 @@
 @media screen and (max-width: 576px) {
     .home {
         display: inline;
-        margin: 30px;
+
 
 
 
@@ -57,9 +57,11 @@
 }
 
 @media screen and (min-width: 577px) and (max-width: 992px) {
+
+
     .home {
         display: grid;
-        margin: 30px;
+
 
 
 

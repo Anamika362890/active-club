@@ -7,6 +7,7 @@ import './Break.css'
 
 
 
+
 const Break = () => {
     const [breakTimes, setbreakTime] = useState([]);
     const [values, setValue] = useState([]);
@@ -19,11 +20,24 @@ const Break = () => {
     }, []);
     const handleBreak = (breakTime) => {
         console.log(breakTime)
-        const newValue = [...values, breakTime];
-        setValue(newValue);
+        let shoppingCart = {};
 
+        //get the shopping cart from local storage
+        const storedCart = localStorage.getItem('shopping-cart');
+        if (storedCart) {
+            shoppingCart = JSON.parse(storedCart);
+        }
 
-
+        // add quantity
+        const quantity = shoppingCart[breakTime.id];
+        if (quantity) {
+            const newQuantity = quantity + 1;
+            shoppingCart[breakTime.id] = newQuantity;
+        }
+        else {
+            shoppingCart[breakTime.id] = 1;
+        }
+        localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
     }
 
     return (
