@@ -7,6 +7,7 @@ import MyProfile from '../MyProfile/MyProfile';
 import Navbar from '../Navbar/Navbar';
 import Question from '../Question/Question';
 import Time from '../TimeDetails/Time';
+import Toast from '../Toast/Toast';
 import './Home.css'
 
 const Home = () => {
@@ -47,8 +48,10 @@ const Home = () => {
                     <MyProfile></MyProfile>
                     <MyDetails></MyDetails>
                     <Break></Break>
-                    <h1>Personal info{time.length}</h1>
-                    <Time></Time>
+
+                    <Time time={time}></Time>
+                    <Toast></Toast>
+
                 </div>
 
             </div>

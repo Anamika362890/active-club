@@ -1,0 +1,11 @@
+.btn-Activity-complete {
+    text-align: center;
+}
+
+.btn-complete {
+    padding: 15px 40px 15px 40px;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 10px;
+
+}
