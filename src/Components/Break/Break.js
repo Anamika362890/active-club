@@ -20,6 +20,11 @@ const Break = () => {
     }, []);
     const handleBreak = (breakTime) => {
         console.log(breakTime)
+
+        const newValue = [...values, breakTime];
+        setValue(newValue);
+
+
         let shoppingCart = {};
 
         //get the shopping cart from local storage
@@ -38,6 +43,10 @@ const Break = () => {
             shoppingCart[breakTime.id] = 1;
         }
         localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
+
+
+
+
     }
 
     return (
