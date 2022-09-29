@@ -1,0 +1,30 @@
+.main {
+    background-color: aliceblue;
+
+}
+
+.home {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+
+}
+
+.info {
+
+    box-shadow: 22px 0px 79px 0px gainsboro;
+    max-width: 400px;
+    background-color: white;
+    margin-top: 10px;
+
+}
+
+.game-activities {
+
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 60px;
+    gap: 30px;
+
+}

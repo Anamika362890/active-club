@@ -1,0 +1,12 @@
+.myDetails {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    padding: 0px 20px 0px 20px;
+
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}

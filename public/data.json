@@ -5,7 +5,7 @@
         "details": "Cricket is played by two teams of 11, with one side taking a turn to bat a ball and score runs, while the other team will bowl and field the ball to restrict the opposition from scoring. The main objective in cricket is to score as many runs as possible against the opponent.",
         "time": 60,
         "age": "15-45",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "img": "https://img.freepik.com/premium-vector/cricket-match-concept-with-stadium_30996-1637.jpg?w=740"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "details": "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used. Sports commonly called football include association football (known as soccer in North America and Oceania); gridiron football (specifically American football or Canadian football); Australian rules football; rugby union and rugby league; and Gaelic football.[1] These various forms of football share to varying extent common origins and are known as football codes..",
         "time": 120,
         "age": "15-45",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "img": "https://wallpaperaccess.com/full/2538318.jpg"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "details": "The players have to fight a series of rounds with one-three minutes intervals. A bell is rung to signify the start of each round. There is a wooden table placed at the ringside, and a ring official hits it with a hammer, to denote that there are only ten seconds left in each round.",
         "time": 22,
         "age": "19-40",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg"
+        "img": "https://www.mensjournal.com/wp-content/uploads/mf/1280-boxing-punch.jpg?w=1200&h=675&crop=1&quality=86&strip=all"
     },
     {
         "id": "4",
@@ -37,15 +37,15 @@
         "details": "Sport cycling involves the racing of bicycles – either on a track or on outdoor terrain, with different variations suiting different styles of racer. Some racers will also compete over a multitude of different formats – known as an omnium..",
         "time": 120,
         "age": "17-30",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg"
+        "img": "https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2018/06/29490477396_8bc87cd42b_k.jpg"
     },
     {
         "id": "7",
-        "name": "Tennis",
+        "name": "Table Tennis",
         "details": "Tennis is a game played on a rectangular-shaped court, which can be one of many surfaces. It is either played with two players (singles match), or four players (doubles match). Players stand on opposite sides of the net and use a stringed racquet to hit the ball back and forth to each other.",
         "time": 160,
         "age": "14-30",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0846e90b15144861b33dacf500e3cfd1_9366/Kaptir_2.0_Shoes_White_H00276_01_standard.jpg"
+        "img": "https://blog.betway.com/media/width1220/18946/table-tennis.jpg"
     },
     {
         "id": "8",
@@ -53,7 +53,7 @@
         "details": "Swimming is the self-propulsion of a person through water, or other liquid, usually for recreation, sport, exercise, or survival. Locomotion is achieved through coordinated movement of the limbs and the body to achieve hydrodynamic thrust which results in directional motion. Humans can hold their breath underwater and undertake rudimentary locomotive swimming within weeks of birth, as a survival response.",
         "time": 20,
         "age": "14-30",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a8256bb7ca34da49ff8ad5600bb2812_9366/4DFWD_Pulse_Shoes_White_Q46221_01_standard.jpg"
+        "img": "https://texasswimacademy.com/wp-content/uploads/2015/08/shutterstock_234506308-763x362-1.jpg"
     },
     {
         "id": "10",
@@ -61,7 +61,7 @@
         "details": "Ludo from Latin ludo '[I] play') is a strategy board game for two to four players, in which the players race their four tokens from start to finish according to the rolls of a single die. Like other cross and circle games, Ludo is derived from the Indian game Pachisi.",
         "time": 30,
         "age": "12-40",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg"
+        "img": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2021/09/28103517/How-to-play-ludo-image-2-1.jpg"
     },
     {
         "id": "11",
@@ -69,6 +69,6 @@
         "details": "It is played on a square board, made up of 64 smaller squares, with eight squares in each row and column. Each player starts with sixteen pieces: eight pawns, two knights, two bishops, two rooks, one queen and one king. The goal of the game is for each player to try and checkmate the king of the opponent.",
         "time": 120,
         "age": "20-35",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f8d89293c9cb4bf08d52adb100f95a3a_9366/Steel_Metal_Bottle_2L_Black_EX7302_01_standard.jpg"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/ChessStartingPosition.jpg"
     }
 ]

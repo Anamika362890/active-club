@@ -1,23 +1,12 @@
-
+import logo from './logo.svg';
 import './App.css';
-import Activities from './Components/Activities/Activities';
-import ActivitiesInfo from './Components/ActivitiesInfo/ActivitiesInfo';
-
+import Home from './Components/Home/Home';
 
 function App() {
   return (
-    <div className='Home'>
-      <div className='Games'>
-        <Activities></Activities>
-
-      </div>
-      <div className='PersonalInfo'>
-        <ActivitiesInfo></ActivitiesInfo>
-
-      </div>
-
+    <div >
+      <Home></Home>
     </div>
-
   );
 }
 

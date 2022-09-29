@@ -1,0 +1,27 @@
+.profile {
+    display: flex;
+    margin: 30px;
+}
+
+.profilePic img {
+    height: 11vh;
+    border-radius: 25px;
+}
+
+.profile-info {
+    margin: 5px 0px 0px 16px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.location {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.place {
+    margin: 10px;
+}

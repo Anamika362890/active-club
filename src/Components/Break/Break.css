@@ -1,0 +1,21 @@
+.h2 {
+    margin-left: 40px;
+}
+
+.time {
+    border: 2px solid green;
+    margin: 40px;
+    padding: 10px 30px 10px 30px;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.time button {
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-right: 3px;
+    font-size: 15px;
+}
