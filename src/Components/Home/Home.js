@@ -28,7 +28,7 @@ const Home = () => {
             <div className='home'>
                 <div >
                     <Navbar></Navbar>
-                    <p className='select'>Select Today's Gaming Activityyyyyyy </p>
+                    <p className='select'>Select Today's Gaming Activity </p>
 
 
                     <div className='game-activities'>
