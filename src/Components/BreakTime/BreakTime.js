@@ -11,7 +11,7 @@ const BreakTime = (props) => {
 
         <div className='BExercise-time'>
             <div>
-                <p >Break Time:</p>
+                <p >Break Timeeeee:</p>
             </div>
             <div className='Bp-time'>
                 {time} second
